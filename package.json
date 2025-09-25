@@ -1,0 +1,19 @@
+{
+  "name": "ibm_backend",
+  "version": "1.0.0",
+  "description": "THis is backend for my abckend course by IBM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imramkrishna/IBM_BACKEND.git"
+  },
+  "author": "Ram Krishna Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imramkrishna/IBM_BACKEND/issues"
+  },
+  "homepage": "https://github.com/imramkrishna/IBM_BACKEND#readme"
+}
